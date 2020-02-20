@@ -1,0 +1,6 @@
+C:\Users\solov\source\repos\GoodLineT\GoodLineT\bin\Debug\GoodLineT.exe.config
+C:\Users\solov\source\repos\GoodLineT\GoodLineT\bin\Debug\GoodLineT.exe
+C:\Users\solov\source\repos\GoodLineT\GoodLineT\bin\Debug\GoodLineT.pdb
+C:\Users\solov\source\repos\GoodLineT\GoodLineT\obj\Debug\GoodLineT.csprojAssemblyReference.cache
+C:\Users\solov\source\repos\GoodLineT\GoodLineT\obj\Debug\GoodLineT.exe
+C:\Users\solov\source\repos\GoodLineT\GoodLineT\obj\Debug\GoodLineT.pdb
